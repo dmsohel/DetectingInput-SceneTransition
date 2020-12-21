@@ -1,0 +1,1 @@
+I have created masterscene and 3 scenes to sitch when a button is pressed.
